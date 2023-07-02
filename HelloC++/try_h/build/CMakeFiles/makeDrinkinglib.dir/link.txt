@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmakeDrinkinglib.a  CMakeFiles/makeDrinkinglib.dir/src/makeDrinking.cpp.o
+/usr/bin/ranlib libmakeDrinkinglib.a

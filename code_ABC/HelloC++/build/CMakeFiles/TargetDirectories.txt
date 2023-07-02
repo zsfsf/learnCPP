@@ -1,0 +1,4 @@
+/home/zsf/HelloC++/build/CMakeFiles/edit_cache.dir
+/home/zsf/HelloC++/build/CMakeFiles/makeDrinkinglib.dir
+/home/zsf/HelloC++/build/CMakeFiles/rebuild_cache.dir
+/home/zsf/HelloC++/build/CMakeFiles/helloCPP.dir

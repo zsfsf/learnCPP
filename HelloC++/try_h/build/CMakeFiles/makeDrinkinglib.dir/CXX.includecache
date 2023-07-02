@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/makeDrinking.h
+iostream
+-
+
+/home/zsf/HelloC++/try_h/src/makeDrinking.cpp
+makeDrinking.h
+/home/zsf/HelloC++/try_h/src/makeDrinking.h
+
