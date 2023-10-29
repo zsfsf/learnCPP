@@ -1,4 +1,0 @@
-/home/zsf/HelloC++/dynamic_memory/build/CMakeFiles/edit_cache.dir
-/home/zsf/HelloC++/dynamic_memory/build/CMakeFiles/makeDrinkinglib.dir
-/home/zsf/HelloC++/dynamic_memory/build/CMakeFiles/rebuild_cache.dir
-/home/zsf/HelloC++/dynamic_memory/build/CMakeFiles/helloCPP.dir

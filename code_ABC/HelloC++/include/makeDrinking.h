@@ -38,5 +38,5 @@ public:
 };
 
 void doWork(abstractDrinking* abs_ptr);
-
+// void hello();
 #endif

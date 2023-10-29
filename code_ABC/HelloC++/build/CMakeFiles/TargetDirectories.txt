@@ -1,4 +1,6 @@
-/home/zsf/HelloC++/build/CMakeFiles/edit_cache.dir
-/home/zsf/HelloC++/build/CMakeFiles/makeDrinkinglib.dir
-/home/zsf/HelloC++/build/CMakeFiles/rebuild_cache.dir
-/home/zsf/HelloC++/build/CMakeFiles/helloCPP.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/CMakeFiles/helloCPP.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/CMakeFiles/edit_cache.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/CMakeFiles/rebuild_cache.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/src/CMakeFiles/makeDrinkinglib.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/src/CMakeFiles/edit_cache.dir
+/home/zsf/learnCPP/code_ABC/HelloC++/build/src/CMakeFiles/rebuild_cache.dir

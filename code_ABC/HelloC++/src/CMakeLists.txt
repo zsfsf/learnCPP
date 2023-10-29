@@ -1,0 +1,1 @@
+add_library(makeDrinkinglib STATIC makeDrinking.cpp)

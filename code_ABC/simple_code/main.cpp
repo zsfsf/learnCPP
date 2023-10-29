@@ -32,24 +32,25 @@ int main()
    // *(a + 1) = 3;
    // std::cout << a[1] << std::endl;
 
-   int arr[] = {4, 1, 9, 5, 2, 7, 0, 2, 1, 3};
-   int size_arr = sizeof(arr) / sizeof(arr[0]);
-   for(int i = 0; i < size_arr - 1; i++)
-   {
-      for(int j = 0; j <= size_arr - 2 - i; j++)
-      {
-         if(arr[j] > arr[j+1])
-         {
-            int temp = arr[j];
-            arr[j] = arr[j+1];
-            arr[j+1] = temp;
-         }
-      }
-   }
-
-   for(int k = 0; k < size_arr; k++)
-   {
-      std::cout << arr[k] << std::endl;
-   }
+   // int arr[] = {4, 1, 9, 5, 2, 7, 0, 2, 1, 3};
+   // int size_arr = sizeof(arr) / sizeof(arr[0]);
+   // for(int i = 0; i < size_arr - 1; i++)
+   // {
+   //    for(int j = 0; j <= size_arr - 2 - i; j++)
+   //    {
+   //       if(arr[j] > arr[j+1])
+   //       {
+   //          int temp = arr[j];
+   //          arr[j] = arr[j+1];
+   //          arr[j+1] = temp;
+   //       }
+   //    }
+   // }
+   // for(int k = 0; k < size_arr; k++)
+   // {
+   //    std::cout << arr[k] << std::endl;
+   // }
    // std::cout << sizeof(arr) / sizeof(arr[0]) << std::endl;
+
+   std::cout << (int)-178.18 << std::endl;
 }

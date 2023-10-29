@@ -26,3 +26,8 @@ void doWork(abstractDrinking* abs_ptr)
     abs_ptr -> makeDrink();
     delete abs_ptr;
 }
+
+void hello()
+{
+    cout << "hello" << endl;
+}

@@ -1,5 +1,5 @@
 // #include "./include/makeDrinking.h"
-#include "makeDrinking.h"
+// #include "makeDrinking.h"
 // using namespace std;
 
 // int main()
@@ -24,8 +24,13 @@ inline int Max(int x, int y)
 
 int main( )
 {
-   abstractDrinking* aa = new coffeDrinking;
-   doWork(aa);
+   // abstractDrinking* aa = new coffeDrinking;
+   // doWork(aa);
+   // int i = 9;
+   // int * const p = &i;
+   // std::cout << *p << std::endl;
+   void hello();
+   hello();
 }
 
 

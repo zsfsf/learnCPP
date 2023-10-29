@@ -1,0 +1,3 @@
+/home/zsf/learnCPP/HelloC++/try_polymorphism/build/CMakeFiles/try_pm.dir
+/home/zsf/learnCPP/HelloC++/try_polymorphism/build/CMakeFiles/edit_cache.dir
+/home/zsf/learnCPP/HelloC++/try_polymorphism/build/CMakeFiles/rebuild_cache.dir
